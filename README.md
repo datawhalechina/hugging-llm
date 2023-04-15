@@ -30,7 +30,7 @@
 ## 内容大纲
 
 - ChatGPT 基础科普 @长琴
-    - 语言模型
+    - LM
     - Transformer
     - GPT
     - RLHF
