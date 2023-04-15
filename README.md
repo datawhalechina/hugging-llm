@@ -1,5 +1,14 @@
 # HuggingLLM
 
+
+<p align="left">
+    <a href="https://github.com/datawhalechina/hugging-llm/blob/main/LICENSE">
+        <img alt="GitHub License" src="https://img.shields.io/github/license/datawhalechina/hugging-llm?color=blue">
+    </a>
+    <a href="https://github.com/datawhalechina/hugging-llm">
+        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/datawhalechina/hugging-llm">
+    </a>
+</p>
 随着ChatGPT的爆火，其背后其实蕴含着一个基本事实：AI能力得到了极大突破——大模型的能力有目共睹，未来只会变得更强。这世界唯一不变的就是变，适应变化、拥抱变化、喜欢变化，天行健君子以自强不息。我们相信未来会有越来越多的大模型出现，AI正在逐渐平民化，将来每个人都可以利用大模型轻松地做出自己的AI产品。所以，我们把项目起名为HuggingLLM，我们相信我们正在经历一个伟大的时代，我们相信这是一个值得每个人全身心拥抱的时代，我们更加相信这个世界必将会因此而变得更加美好。
 
 ## 关于项目
@@ -60,7 +69,7 @@
     - 事实错误
     - 实时更新
     - 资源耗费
-- ChatGPT 商业应用 @JSON
+- ChatGPT 商业应用 @Jason
     - 背景
     - 工具应用：搜索、办公、教育
     - 行业应用：游戏、音乐、零售电商、广告营销、媒体新闻、金融、医疗、设计、影视、工业
@@ -84,4 +93,4 @@
 
 本项目为DataWhale社区AIGC相关开源项目，如需转载请联系DataWhale相关负责人。
 
-项目贡献人：长琴、玉琳、华挥、博阳、JSON
+项目贡献人：长琴、玉琳、华挥、博阳、Jason
