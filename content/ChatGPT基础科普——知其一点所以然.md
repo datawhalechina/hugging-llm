@@ -130,7 +130,7 @@ Transformer这个架构基于Seq2Seq，可以同时处理NLU和NLG任务，而�
 
 ## 3. GPT
 
-GPT，Generative Pre-trained Transformer，没错了，就是ChatGPT的那个GPT，中文叫「生成式预训练Transformer」。生成式的意思就是类似语言模型那样，Token by Token生成文本，也就是上面提到的Decoder。预训练刚刚液体过了，就是在大量语料上训练的语言模型。GPT模型从1到4，一共经历了5个版本，中间有个ChatGPT是3.5版，接下来我们分别介绍它们的基本思想。
+GPT，Generative Pre-trained Transformer，没错了，就是ChatGPT的那个GPT，中文叫「生成式预训练Transformer」。生成式的意思就是类似语言模型那样，Token by Token生成文本，也就是上面提到的Decoder。预训练刚刚也提过了，就是在大量语料上训练的语言模型。GPT模型从1到4，一共经历了5个版本，中间有个ChatGPT是3.5版，接下来我们分别介绍它们的基本思想。
 
 GPT1和BERT一样，走的是下游任务微调套路，也就是固定住预训练模型不动，然后在不同下游任务上微调一个模型，如下图所示：
 
