@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 tnews-finetuning*
+contribute.md
 *.drawio
 *.db
 content/metric.csv
