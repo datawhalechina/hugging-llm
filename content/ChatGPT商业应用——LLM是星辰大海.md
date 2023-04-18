@@ -38,7 +38,7 @@ ChatGPT的出现受影响最大的领域是什么？毫无疑问是搜索引擎�
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe825fa3c4c2410fb578c6be3557c077~tplv-k3u1fbpfcp-watermark.image?)
 
-我全程看完了直播，但从结果来看，文心一言是不合格的，文心一言前面三个演示ChatGPT比他更好，中文理解上当然是文心一言更强这没什么好疑问的，最后一个多模态也比GPT4差很多。但是最让我失望的是文心一言目前只对企业开放访问。
+我全程看完了直播，但从结果来看，文心一言是不太合格的，文心一言前面三个演示ChatGPT比他更好，中文理解上当然是文心一言更强这没什么好疑问的，最后一个多模态也比GPT4差很多。但是最让我失望的是文心一言只对企业开放访问，不过现在已经可以加入排队使用了。
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/524ea786ee4347779978d27ed7111eb0~tplv-k3u1fbpfcp-watermark.image?)
 
 文心一言说到底还是我们发布的第一个大模型，也许我们应该再给一点点耐心，未来希望文心一言真正能够让这场人工智能变革走进我们每个人的学习生活，开放给每一个人。
