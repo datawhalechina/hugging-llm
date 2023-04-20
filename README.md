@@ -67,7 +67,7 @@
     - 测试ChatGPT推理能力
     - 调用ChatGPT推理能力
     - ChatGPT以及GPT-4的推理能力
-- ChatGPT 局限不足 @博阳
+- ChatGPT 局限不足 @Carles
     - 事实错误
     - 实时更新
     - 资源耗费
@@ -76,7 +76,22 @@
     - 工具应用：搜索、办公、教育
     - 行业应用：游戏、音乐、零售电商、广告营销、媒体新闻、金融、医疗、设计、影视、工业
 
-## 学习说明
+## 如何学习
+
+### 学习指南
+
+要学习本教程内容（主要是四个使用指南），需具备以下条件：
+
+- 能够正常使用OpenAI的API，能够调用模型：gpt-3.5-turbo。
+- 可以没有算法经验，但应具备一定的编程基础或实际项目经历。
+- 学习期间有足够的时间保证，《使用指南》学习周期为2-3天，除《推理Reasoning》外，其他均需要6-8小时。
+
+学习完成后，需要提交一个大作业，整个学习期间就一个任务，要求如下：
+
+- 以其中任一方向为例：描述应用和设计流程；实现功能；做一个应用或Demo。
+- 方向包括所有内容，比如：一个新闻推荐阅读器、一个多轮的客服机器人、Doc问答机器人、模型输出内容检测器等等，鼓励大家偏应用方向。
+
+### 学习说明
 
 请学习者务必注意以下几点：
 
@@ -90,10 +105,15 @@
 <p align="center">
 ——HuggingLLM开源项目全体成员
 </p>
-
-
 ## 版权说明
 
 本项目为DataWhale社区AIGC相关开源项目，如需转载请联系DataWhale相关负责人。
 
-项目贡献人：长琴、玉琳、华挥、博阳、Jason
+项目贡献人：
+
+- [长琴](https://yam.gift/)，内容创作者，DataWhale成员，AI算法工程师
+- [玉琳](https://github.com/Sophia-Huang)，内容创作者，DataWhale成员
+- [华挥](https://github.com/HhuiYi)，内容创作者，DataWhale成员
+- [Carles](https://github.com/AmourWaltz)，内容创作者
+- [Jason](https://github.com/HeteroCat)，内容创作者
+- [胡锐锋](https://github.com/Relph1119)，「打杂」人员，DataWhale成员，华东交通大学，系统架构设计师
