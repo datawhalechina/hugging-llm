@@ -1,14 +1,5 @@
 # HuggingLLM
 
-
-<p align="left">
-    <a href="https://github.com/datawhalechina/hugging-llm/blob/main/LICENSE">
-        <img alt="GitHub License" src="https://img.shields.io/github/license/datawhalechina/hugging-llm?color=blue">
-    </a>
-    <a href="https://github.com/datawhalechina/hugging-llm">
-        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/datawhalechina/hugging-llm">
-    </a>
-</p>
 随着ChatGPT的爆火，其背后其实蕴含着一个基本事实：AI能力得到了极大突破——大模型的能力有目共睹，未来只会变得更强。这世界唯一不变的就是变，适应变化、拥抱变化、喜欢变化，天行健君子以自强不息。我们相信未来会有越来越多的大模型出现，AI正在逐渐平民化，将来每个人都可以利用大模型轻松地做出自己的AI产品。所以，我们把项目起名为HuggingLLM，我们相信我们正在经历一个伟大的时代，我们相信这是一个值得每个人全身心拥抱的时代，我们更加相信这个世界必将会因此而变得更加美好。
 
 ## 关于项目
@@ -88,7 +79,7 @@
 
 学习完成后，需要提交一个大作业，整个学习期间就一个任务，要求如下：
 
-- 以其中任一方向为例：描述应用和设计流程；实现功能；做一个应用或Demo。
+- 以其中任一方向为例：描述应用和设计流程，实现应用相关功能，完成一个应用或Demo程序。
 - 方向包括所有内容，比如：一个新闻推荐阅读器、一个多轮的客服机器人、Doc问答机器人、模型输出内容检测器等等，鼓励大家偏应用方向。
 
 ### 学习说明
@@ -105,15 +96,25 @@
 <p align="center">
 ——HuggingLLM开源项目全体成员
 </p>
-## 版权说明
 
-本项目为DataWhale社区AIGC相关开源项目，如需转载请联系DataWhale相关负责人。
+## 致谢
 
-项目贡献人：
+**核心贡献者**
 
-- [长琴](https://yam.gift/)，内容创作者，DataWhale成员，AI算法工程师
-- [玉琳](https://github.com/Sophia-Huang)，内容创作者，DataWhale成员
-- [华挥](https://github.com/HhuiYi)，内容创作者，DataWhale成员
-- [Carles](https://github.com/AmourWaltz)，内容创作者
-- [Jason](https://github.com/HeteroCat)，内容创作者
-- [胡锐锋](https://github.com/Relph1119)，「打杂」人员，DataWhale成员，华东交通大学，系统架构设计师
+- [长琴-项目负责人](https://yam.gift/)（DataWhale成员-AI算法工程师）
+- [玉琳](https://github.com/Sophia-Huang)（内容创作者-DataWhale成员）
+- [华挥](https://github.com/HhuiYi)（内容创作者-DataWhale成员）
+- [Carles](https://github.com/AmourWaltz)（内容创作者）
+- [Jason](https://github.com/HeteroCat)（内容创作者）
+- [胡锐锋](https://github.com/Relph1119)（DataWhale成员-华东交通大学-系统架构设计师）
+
+## 关注我们
+
+<div align=center>
+<p>扫描下方二维码关注公众号：Datawhale</p>
+<img src="resources/qrcode.jpeg" width = "180" height = "180">
+</div>
+&emsp;&emsp;Datawhale，一个专注于AI领域的学习圈子。初衷是for the learner，和学习者一起成长。目前加入学习社群的人数已经数千人，组织了机器学习，深度学习，数据分析，数据挖掘，爬虫，编程，统计学，Mysql，数据竞赛等多个领域的内容学习，微信搜索公众号Datawhale可以加入我们。
+
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
