@@ -287,8 +287,8 @@
 &emsp;&emsp;大海因为广阔所以令人心驰神往，星空因为浩大所以令人痴迷留恋。LLM的星辰大海同样令人如痴如醉，相信它会像大海一样取之不尽，有无限的可能性；同时它也像星空一样绚烂神秘，有无穷的韵味。希望你也能在LLM中找到自己的机会，发现属于自己的星辰大海。
 
 ## 相关文献
-- 【1】[《2023中国AIGC市场研究报告：ChatGPT的技术演进、变革风向与投资机会分析》]([url](https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/2023%E4%B8%AD%E5%9B%BDAIGC%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%EF%BC%9AChatGPT%E7%9A%84%E6%8A%80%E6%9C%AF%E6%BC%94%E8%BF%9B%E3%80%81%E5%8F%98%E9%9D%A9%E9%A3%8E%E5%90%91%E4%B8%8E%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%88%86%E6%9E%90.pdf))
-- 【2】[《ChatGPT 研究框架（2023）-生成式A迎来拐点,商用落地前景可期》]([url](https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/ChatGPT%20%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6%EF%BC%882023%EF%BC%89-%E7%94%9F%E6%88%90%E5%BC%8FA%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9%2C%E5%95%86%E7%94%A8%E8%90%BD%E5%9C%B0%E5%89%8D%E6%99%AF%E5%8F%AF%E6%9C%9F.pdf))
-- 【3】[《哈尔滨工业大学：ChatGPT调研报告》([url](https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%9AChatGPT%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf))
+- 【1】《2023中国AIGC市场研究报告：ChatGPT的技术演进、变革风向与投资机会分析》([url](https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/2023%E4%B8%AD%E5%9B%BDAIGC%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%EF%BC%9AChatGPT%E7%9A%84%E6%8A%80%E6%9C%AF%E6%BC%94%E8%BF%9B%E3%80%81%E5%8F%98%E9%9D%A9%E9%A3%8E%E5%90%91%E4%B8%8E%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%88%86%E6%9E%90.pdf))
+- 【2】《ChatGPT 研究框架（2023）-生成式A迎来拐点,商用落地前景可期》([url](https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/ChatGPT%20%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6%EF%BC%882023%EF%BC%89-%E7%94%9F%E6%88%90%E5%BC%8FA%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9%2C%E5%95%86%E7%94%A8%E8%90%BD%E5%9C%B0%E5%89%8D%E6%99%AF%E5%8F%AF%E6%9C%9F.pdf))
+- 【3】《哈尔滨工业大学：ChatGPT调研报告》([url](https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%9AChatGPT%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf))
 - 【4】[《亚马逊AIGC创新实践大会》]([url](https://www.awsevents.cn/AIGC0309/listDetails.html?s=8197&smid=16974&vep_st=#zbhc))
 
