@@ -38,7 +38,7 @@
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe825fa3c4c2410fb578c6be3557c077~tplv-k3u1fbpfcp-watermark.image?)
 
-&emsp;&emsp;笔者全程看完了直播，但从结果来看，当时的文心一言是不合格的，该演示发布会的文心一言前面三个演示的效果，ChatGPT更胜一筹，中文理解上当然是文心一言更强，这没什么好疑问的，最后一个多模态也比GPT-4差很多。但是最让人失望的是文心一言只对企业开放访问，不过现在个人也可以加入申请。
+&emsp;&emsp;笔者全程看完了直播，但从结果来看，当时的文心一言是不太合格的，该演示发布会的文心一言前面三个演示的效果，ChatGPT更胜一筹，中文理解上当然是文心一言更强，这没什么好疑问的，最后一个多模态也比GPT-4差很多。但是最让人失望的是文心一言只对企业开放访问，不过现在个人也可以加入申请。
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/524ea786ee4347779978d27ed7111eb0~tplv-k3u1fbpfcp-watermark.image?)
 
 &emsp;&emsp;文心一言说到底还是我们发布的第一个大模型，也许我们应该再给一点点耐心，未来希望文心一言真正能够让这场人工智能变革走进我们每个人的学习生活，开放给每一个人。
@@ -57,7 +57,7 @@
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/700e46d58c54424986704c59648f797b~tplv-k3u1fbpfcp-watermark.image?)
 
-- **PPT**：ChatGPT与PPT的结合有ChatBCG，你敢相信只需要一句话就能生成一个PPT吗？是的，ChatBCG就有这样的能力，在ChatBCG的网址里，只需要输入一句话就可以生成一个PPT，而且还能对生成的PPT进行编辑，比如说调整颜色、风格、字体等等，ChatBCG是由ChatGPT和DALL-E 2结合的，甚至可以根据一篇论文生成PPT，下面就是ChatBCG的官网，只需要像在ChatGPT一样输入一句话在对话框中就可得到漂亮的PPT，是的，你没看错他已经被玩宕机了。
+- **PPT**：ChatGPT与PPT的结合有ChatBCG，你敢相信只需要一句话就能生成一个PPT吗？是的，ChatBCG就有这样的能力，在ChatBCG的网址里，只需要输入一句话就可以生成一个PPT，而且还能对生成的PPT进行编辑，比如说调整颜色、风格、字体等等，ChatBCG是由ChatGPT和DALL-E 2结合的，甚至可以根据一篇论文生成PPT，下面就是ChatBCG的官网，只需要像在ChatGPT一样输入一句话在对话框中就可得到漂亮的PPT，是的，你没看错在笔者访问他的时候他已经被玩宕机了，因为实在太火了。
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b68c5d95dfd449f958ce5d0916d32de~tplv-k3u1fbpfcp-watermark.image?)
 
@@ -177,7 +177,7 @@
 
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4415c3e430724870ac7f91f00607ecc9~tplv-k3u1fbpfcp-watermark.image?)
 
-&emsp;&emsp;也许ChatGPT不能帮助我们直接进行AI直播，但是我们从下面这张图中可以看出快速开启AI直播的方法和步骤，ChatGPT都可以完美胜任。
+&emsp;&emsp;也许ChatGPT不能帮助我们直接进行AI直播，但是我们从下面这张图中可以看出快速开启AI直播的方法和步骤，其中的一些部分ChatGPT是可以完美胜任。
 
 ![屏幕截图 2023-03-18 222943.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b56a701a63bd418ca44f859d2a3b2639~tplv-k3u1fbpfcp-watermark.image?)
 
@@ -227,7 +227,7 @@
 
 &emsp;&emsp;2023年3月31日，金融领域的ChatGPT来了，纽约彭博社发布研究报告向我们展示了BloombergGPT，它由7000亿语料库训练，一半来自彭博社自身的3630亿金融数据，另一半则是公共的数据集3450亿，参数为500亿左右，该模型将重塑金融分析师的流程，未来也会上线纽约彭博社的终端为客户提供服务。我们相信未来这样的模型将在各行各业中涌现，不断提高行业的效率，形成更大的生产力。
 
-&emsp;&emsp;那么ChatGPT能给我们个人带来怎么样的投资机会或者金融方面的机会呢？在传统的量化投资过程中，你需要懂投资，还要懂代码，不过现在可能就不用较强的代码编写能力了（至少目前是这样，未来可能就完全不用了）。最近就有人用ChatGPT帮助他写出了一个回溯1200%的量化投资策略。首先他在量化交易平台上选择一个已经有投资策略的模型作为基础，然后根据自己的风格让ChatGPT优化该策略模型，其中优化的第一步是只做多头仓位不做空，第二个是调整超买超卖的情况，第三个是调整单笔下注的金额，最后通过回测这个策略从原来的58%飙升到1200%。这个可能就是ChatGPT给量化领域带来的改变，也许他有一定的运气程度，但是我们可以通过这种方式找到一个更好的交易策略，而且可能通过完全零代码的方式完成。
+&emsp;&emsp;那么ChatGPT能给我们个人带来怎么样的投资机会或者金融方面的机会呢？在传统的量化投资过程中，你需要懂投资，还要懂代码，不过现在可能就不用较强的代码编写能力了（至少目前是这样，未来可能就完全不用了）。最近就有人用ChatGPT帮助他写出了一个回溯1200%的量化投资策略。首先他在量化交易平台上选择一个已经有投资策略的模型作为基础，然后根据自己的风格让ChatGPT优化该策略模型，其中优化的第一步是只做多头仓位不做空，第二个是调整超买超卖的情况，第三个是调整单笔下注的金额，最后通过回测这个策略从原来的58%飙升到1200%。这个可能就是ChatGPT给量化领域带来的改变，也许他有一定的运气程度，但是我们可以通过这种方式找到一个更好的交易策略，而且可能通过完全零代码的方式完成，这将带来极大的便利。
 
 #### ChatGPT+医疗
 
@@ -286,7 +286,7 @@
 
 ## 相关文献
 
-- 【1】《2023中国AIGC市场研究报告：ChatGPT的技术演进、变革风向与投资机会分析》
-- 【2】《ChatGPT 研究框架（2023）-生成式A迎来拐点,商用落地前景可期》
-- 【3】《哈尔滨工业大学：ChatGPT调研报告》
-- 【4】《亚马逊AIGC创新实践大会》
+- 【1】《2023中国AIGC市场研究报告：ChatGPT的技术演进、变革风向与投资机会分析》https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/2023%E4%B8%AD%E5%9B%BDAIGC%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%EF%BC%9AChatGPT%E7%9A%84%E6%8A%80%E6%9C%AF%E6%BC%94%E8%BF%9B%E3%80%81%E5%8F%98%E9%9D%A9%E9%A3%8E%E5%90%91%E4%B8%8E%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%88%86%E6%9E%90.pdf
+- 【2】《ChatGPT 研究框架（2023）-生成式A迎来拐点,商用落地前景可期》https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/ChatGPT%20%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6%EF%BC%882023%EF%BC%89-%E7%94%9F%E6%88%90%E5%BC%8FA%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9%2C%E5%95%86%E7%94%A8%E8%90%BD%E5%9C%B0%E5%89%8D%E6%99%AF%E5%8F%AF%E6%9C%9F.pdf
+- 【3】《哈尔滨工业大学：ChatGPT调研报告》https://github.com/HeteroCat/HeteroCat-blog/blob/main/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%9AChatGPT%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf
+- 【4】《亚马逊AIGC创新实践大会》https://www.awsevents.cn/AIGC0309/listDetails.html?s=8197&smid=16974&vep_st=#zbhc
