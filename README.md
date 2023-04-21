@@ -108,6 +108,9 @@
 - [Jason](https://github.com/HeteroCat)（内容创作者）
 - [胡锐锋](https://github.com/Relph1119)（DataWhale成员-华东交通大学-系统架构设计师）
 
+**其他**
+1. 特别感谢 [@Sm1les](https://github.com/Sm1les)、[@LSGOMYP](https://github.com/LSGOMYP) 对本项目的帮助与支持；
+
 ## 关注我们
 
 <div align=center>
