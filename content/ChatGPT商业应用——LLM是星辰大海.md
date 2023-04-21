@@ -39,6 +39,7 @@
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fe825fa3c4c2410fb578c6be3557c077~tplv-k3u1fbpfcp-watermark.image?)
 
 &emsp;&emsp;笔者全程看完了直播，但从结果来看，当时的文心一言是不太合格的，该演示发布会的文心一言前面三个演示的效果，ChatGPT更胜一筹，中文理解上当然是文心一言更强，这没什么好疑问的，最后一个多模态也比GPT-4差很多。但是最让人失望的是文心一言只对企业开放访问，不过现在个人也可以加入申请。
+
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/524ea786ee4347779978d27ed7111eb0~tplv-k3u1fbpfcp-watermark.image?)
 
 &emsp;&emsp;文心一言说到底还是我们发布的第一个大模型，也许我们应该再给一点点耐心，未来希望文心一言真正能够让这场人工智能变革走进我们每个人的学习生活，开放给每一个人。
@@ -101,6 +102,7 @@
 #### ChatGPT+游戏
 
 &emsp;&emsp;ChatGPT可以帮助游戏的内容更吸引人，得到更有意思的创意和更真实的场景对话等等，还可以在游戏制作的过程中缩短游戏制作的周期，降低游戏制作的成本。如下图所示，我们就可以看到游戏公司最重要的核心的就是美术人员，在以前，美术人员可能要用一天的时间完成的内容，在人工智能的帮助下，现在可能在一个小时内就可以搞定，以前一个创意可能需要冥思苦想好久时间，但现在可以让人工智能给生成一大堆东西，然后再去做出选择。
+
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d1d9201f51244756ae6fa1b0bf438f04~tplv-k3u1fbpfcp-watermark.image?)
 
 &emsp;&emsp;接下来，我们将从游戏策划，游戏内容和游戏制作三个方面介绍一些的应用示例。
