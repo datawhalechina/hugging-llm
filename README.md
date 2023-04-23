@@ -101,14 +101,15 @@
 
 **核心贡献者**
 
-- [长琴-项目负责人](https://yam.gift/)（DataWhale成员-AI算法工程师）
-- [玉琳](https://github.com/Sophia-Huang)（内容创作者-DataWhale成员）
-- [华挥](https://github.com/HhuiYi)（内容创作者-DataWhale成员）
+- [长琴-项目负责人](https://yam.gift/)（Datawhale成员-AI算法工程师）
+- [玉琳](https://github.com/Sophia-Huang)（内容创作者-Datawhale成员）
+- [华挥](https://github.com/HhuiYi)（内容创作者-Datawhale成员）
 - [Carles](https://github.com/AmourWaltz)（内容创作者）
 - [Jason](https://github.com/HeteroCat)（内容创作者）
-- [胡锐锋](https://github.com/Relph1119)（DataWhale成员-华东交通大学-系统架构设计师）
+- [胡锐锋](https://github.com/Relph1119)（Datawhale成员-华东交通大学-系统架构设计师）
 
 **其他**
+
 1. 特别感谢 [@Sm1les](https://github.com/Sm1les)、[@LSGOMYP](https://github.com/LSGOMYP) 对本项目的帮助与支持；
 
 ## 关注我们
