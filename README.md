@@ -52,7 +52,7 @@
     - 文本摘要
     - 文本纠错
     - 机器翻译
-- [ChatGPT 使用指南：文本推理](content/ChatGPT使用指南——推理Reasoning.ipynb) @华挥
+- [ChatGPT 使用指南：文本推理](content/ChatGPT使用指南——文本推理.ipynb) @华挥
     - 什么是推理
     - 导入ChatGPT
     - 测试ChatGPT推理能力
