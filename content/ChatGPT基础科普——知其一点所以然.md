@@ -12,7 +12,7 @@
 ## 从图灵测试到ChatGPT
 &emsp;&emsp;1950年，艾伦•图灵(Alan Turing)发表论文《计算机器与智能》（ Computing Machinery and Intelligence），提出并尝试回答“机器能否思考”这一关键问题。在论文中，图灵提出了“模仿游戏”（即图灵测试）的概念，用来检测机器智能水平。图灵测试的核心思想是，如果一个人（代号C）使用测试对象皆理解的语言去询问两个他不能看见的对象任意一串问题，其中一个是正常思维的人（代号B），另一个是机器（代号A）。如果经过若干询问以后，C不能得出实质的区别来分辨A与B的不同，则此机器A通过图灵测试。
 
-![](images/turning test.png)
+![](images/turning_test.png)
 
 &emsp;&emsp;1956年，人工智能正式成为了一个科学上的概念，而后涌现了很多新的研究目标与方向。虽然，图灵测试只是一个启发性的思想实验，而非可以具体执行的判断方法，但他却通过这个假设，阐明了“智能”判断的模糊性与主观性。从此图灵测试成为了**自然语言处理（Natural Language Processing，NLP）**任务的一个重要评测标准。图灵测试提供了一个客观和直观的方式来评估机器是否具有智能，即通过让机器与人类进行对话来判断其智能水平。这种方式可以避免对智能本质的哲学争论，也可以避免对智能具体表现形式的技术细节。因此，很多自然语言处理任务都可以用图灵测试来进行评测，例如对话系统、问答系统、文本生成等。
 
@@ -29,9 +29,7 @@
 - 1966年，约瑟夫·韦伊岑鲍姆开发了ELIZA，一种模拟心理治疗师的对话系统。
 - 1972年，特里·温诺格拉德开发了SHRDLU，一种能够理解和生成自然语言的程序，用于控制一个虚拟的机器人在一个虚拟的世界中进行操作。
 - 1988年，杰拉尔德·萨斯曼和詹姆斯·马丁创建了Text Retrieval Conference（TREC），一个旨在推动信息检索和自然语言处理技术发展的国际评测活动。
-- 1997年，IBM的深蓝战胜了国际象棋冠军卡斯帕罗夫，这是人工智能领域的一个重大突破。
-- 2011年，苹果公司推出了Siri，一种基于自然语言处理技术的智能个人助理。
-- 2011年，IBM的Watson战胜了《危险边缘》节目的冠军选手，展示了自然语言处理技术在问答领域的强大能力。
+- 2011年，苹果公司推出了Siri，一种基于自然语言处理技术的智能个人助理。童年，IBM的Watson战胜了《危险边缘》节目的冠军选手，展示了自然语言处理技术在问答领域的强大能力。
 - 2013年，谷歌公司推出了Word2Vec，一种基于神经网络的词向量表示方法，开启了自然语言处理领域的深度学习时代。
 - 2016年，Facebook发布了FastText的文本分类算法，它可以在处理大规模文本分类任务时取得很好的效果。
 - 2017年，Google发布了一篇很可能是AI历史上最重要的一篇论文《Attention is all you need》，在论文中作者提出了Transformer——一个具有多头注意力机制的模型，在文本特征提取方面取得了优异的效果。
@@ -71,7 +69,7 @@
 
 ![](images/ChatGPT-Intro-1.png)
 
-（图1：如何预测下一个词）
+<p align="center">（图1：如何预测下一个词）<p>
 
 &emsp;&emsp;先看第一步，如果只选概率最大的那个词，那就变成「我想」了，但是别急，我们给「喜欢」一点机会，同时考虑它们两个。再往下看一步，最大概率的都是你，我们也选两个，最后有这么几句（以及我们附上它们的概率）：
 
@@ -111,13 +109,13 @@ W·X = Y  # W自然可以是 d×N 维的矩阵
 
 ![](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png)
 
-（图2：RNN，来自：https://colah.github.io/posts/2015-08-Understanding-LSTMs/）
+<p align="center">（图2：RNN，来自：https://colah.github.io/posts/2015-08-Understanding-LSTMs/）<p>
 
 &emsp;&emsp;右边是左边的展开，A就是参数，X是输入，h就是输出，由于自然语言是Token by Token的，所以就组成了一个序列。那这个参数怎么学习呢？这就要稍微解释一下学习过程，请看下面的图：
 
 ![](images/ChatGPT-Intro-2.png)
 
-（图3：语言模型输入输出）
+<p align="center">（图3：语言模型输入输出）<p>
 
 &emsp;&emsp;第一行就是X，第二行就是Y，SOS表示Start of Sentence，EOS就不多解释了。注意，上面的h并不是那个输出的概率，而是hidden state，如果需要概率，可以将h再做一个张量运算，归一化到整个词表即可。简单的演示一下代码：
 
@@ -158,7 +156,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](images/ChatGPT-Intro-3.gif)
 
-（图4：GNMT图示，来自GNMT GitHub：https://github.com/belvo/Google-Neural-Machine-Translation-GNMT-）
+<p align="center">（图4：GNMT图示，来自GNMT GitHub：https://github.com/belvo/Google-Neural-Machine-Translation-GNMT-）<p>
 
 &emsp;&emsp;刚刚已经说了，Encoder和Decoder可以采用RNN，最终就是Encoder所有Token最终输出一个向量，作为整句话的表示。说到这里，整句话又怎么表示呢？刚刚上面我们也提到过，如果RNN这种结构，可以把最后一个Token的输出作为整个句子的表示。当然了，很符合直觉地，你也可以取每个Token向量的平均值，或第一个和最后一个的平均值，或后面N个的平均值。这些都可以，问题不大，不过一般取平均的情况比较多，效果要好一些。除了平均值，也可以求和、取最大值等，我们就不多深入讨论了。现在重点来了，看Decoder的过程，仔细看，其实它在生成每一个Token时都用到了Encoder每一个Token的信息，以及它已经生成的Token的信息。前面这种关注Encoder中Token的信息的机制就是Attention（注意力机制）。直观点解释，当生成Knowledge时，「知识」两个字会被赋予更多权重，其他也是类似。
 
@@ -166,7 +164,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](http://qnimg.lovevivian.cn/paper-attention-is-all-you-need-1.jpeg)
 
-（图5：Transformer，来自Transformer论文）
+<p align="center">（图5：Transformer，来自Transformer论文）<p>
 
 &emsp;&emsp;这个图更多的是体现了内部结构。左边是Encoder的一个Block（一共N个），右边是Decoder的一个Block（一共N个），简单起见，我们可以假设N=1，那左边这个结构就是一个Encoder，右边的就是Decoder。也可以把它们就想象成一个RNN，这样有助于从宏观上把握。现在，想象完了，我们回到现实，Transformer 用到的东西和RNN并没有关系，通过上图也可以看出来，它主要用了两个模块：Multi-Head Attention和Feed Forward。对于前者，我们不妨回顾一下GNMT的Attention，它是Decoder中的Token和Encoder中每一个Token的重要性权重。Multi-Head Attention中用到一个东西叫SelfAttention，和刚刚说的Attention非常类似，只不过它是自己的每一个Token和自己的每一个Token的重要性权重。简单来说，就是“一句话到底哪里重要”。这玩意儿可以说是非常精髓了，无论是ChatGPT，还是其他非文本的模型，几乎都用到了它，可以说是真正的一统江湖。Multi-Head是啥意思呢，简单来说，就是把刚刚的这种自己注意自己重复Multi次（Multi个Head），每个注意到的信息不一样，这样就可以捕获到更多信息。比如我们前面提过的这句话：「我喜欢在深夜的星空下伴随着月亮轻轻地想你」，有的Head「我」注意到「喜欢」，有的Head「我」注意到「深夜」，有的Head「我」注意到「想你」……这样看起来是不是更加Make Sense。对于Feed Forward，大家可以把它当做「记忆层」，大模型的大部分知识都存在这里面，Multi-Head Attention则根据不同权重的注意提取知识。
 
@@ -186,7 +184,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](images/ChatGPT-Intro-4.png)
 
-（图6：GPT基本结构，来自GPT论文）
+<p align="center">（图6：GPT基本结构，来自GPT论文）<p>
 
 &emsp;&emsp;关于左边，我们上面已经介绍过了，用的就是Transformer的架构（GPT中是Decoder），具体里面的子模块可以不用关注。重点看看右边，这里有一个值得注意的地方，就是针对不同的任务输入，都拼接成文本序列，然后丢给Transformer Decoder再通过一个Linear+SoftMax输出结果。Linear是一种最基础的网络结构，SoftMax我们前面介绍过，主要用来把输出映射到概率分布（和为1）。这种拼接输入的方法在当时那个大模型时代非常流行的，紧跟其后的BERT也是类似的方式。这样统一的处理方法能够减少不同任务对模型的改动。反正不管什么任务，都想方设法搞成一个序列就行。
 
@@ -194,7 +192,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](images/ChatGPT-Intro-5.png)
 
-（图7：左图是GPT参数量与效果图，右图是Zero-Shot能力，来自GPT论文）
+<p align="center">（图7：左图是GPT参数量与效果图，右图是Zero-Shot能力，来自GPT论文）<p>
 
 &emsp;&emsp;上图可以得出两个基本结论：第一，预训练模型中的每一层都包含用于解决目标任务的有用功能，说明多层有更多能力；第二，随着参数的增加，Zero-Shot获得更好的性能。简单总结来看就是，模型大了不仅能学到更多知识，有助于解决下游任务，还表现出了Zero-Shot能力。
 
@@ -206,7 +204,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](images/ChatGPT-Intro-6.png)
 
-（图8：参数量和Zero-Shot表现，来自GPT-2论文）
+<p align="center">（图8：参数量和Zero-Shot表现，来自GPT-2论文）<p>
 
 &emsp;&emsp;纵坐标是不同任务的评估指标，横坐标是参数量，效果一目了然。进一步验证了前面的想法，那下一步要做的就是继续扩大规模……不过且慢，在此之前我们不妨看一下GPT-2中的Token生成策略，也就是生成下一个Token时的方法。前面第一部分我们提到过比较优秀的Beam Search，不过它有两个比较明显的问题，第一是生成的内容容易重复；第二是高质量的文本和高概率并不一定相关，人更加喜欢有「不一样」的内容，而不是完全可预测的，比如张爱玲说过「孤独的人有他们自己的泥沼」，这种独一无二的文字用高概率的词大概率是得不到的。简单来看，这两个问题其实可以归结为一个点：生成的内容确定性太大。
 
@@ -222,7 +220,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](https://qnimg.lovevivian.cn/paper-gpt3-4.jpg)
 
-（图9：X-Shot在不同参数量级的表现，来自GPT-3论文）
+<p align="center">（图9：X-Shot在不同参数量级的表现，来自GPT-3论文）<p>
 
 这张图可以提供几个信息：
 
@@ -234,7 +232,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](https://qnimg.lovevivian.cn/paper-gpt3-5.jpg)
 
-（图10：如何使用In-Context能力完成任务，来自GPT-3论文）
+<p align="center">（图10：如何使用In-Context能力完成任务，来自GPT-3论文）<p>
 
 &emsp;&emsp;看起来一点都不复杂，你只要按照它的格式把输入构建好放进去就可以了。这也是本项目之所以存在的一个很重要的原因——AI已经平民化了，现在你只要有手（可能以后没手也行），通过使用LLM（Large Language Model）就可以做出AI应用了。
 
@@ -253,7 +251,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](images/ChatGPT-Intro-7.png)
 
-（图11：不同策略不同模型效果对比，来自InstructGPT论文）
+<p align="center">（图11：不同策略不同模型效果对比，来自InstructGPT论文）<p>
 
 &emsp;&emsp;上面一共五根线，我们稍微解释一下，上面两根（PPO）的，就是InstructGPT设置下的结果；中间那根SFT可以理解成GPT-3+微调，理论上来说（实际也是这样）微调后的效果要好于Few-Shot，更好于Zero-Shot；下面两根是GPT-3的结果。当然，这个评测方式可能有一点值得商酌。
 
@@ -261,7 +259,7 @@ probs = nn.Softmax(dim=1)(logits) # 4×1000，每一行概率和为1
 
 ![](images/ChatGPT-Intro-8.png)
 
-（图12：InstructGPT工作流程，来自InstructGPT论文）
+<p align="center">（图12：InstructGPT工作流程，来自InstructGPT论文）<p>
 
 &emsp;&emsp;这张图比较直观的展示了InstructGPT的整个流程。共三个步骤：
 
