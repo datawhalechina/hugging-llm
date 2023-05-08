@@ -48,7 +48,7 @@
     - 文档问答任务
     - 分类与实体识别微调任务
     - 智能对话应用
-- [ChatGPT 使用指南：编辑生成](content/ChatGPT使用指南——文本生成.ipynb) @玉琳
+- [ChatGPT 使用指南：文本生成](content/ChatGPT使用指南——文本生成.ipynb) @玉琳
     - 文本摘要
     - 文本纠错
     - 机器翻译
