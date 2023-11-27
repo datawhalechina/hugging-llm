@@ -31,38 +31,38 @@
 
 > 本教程内容彼此之间相对独立，大家可以针对任一感兴趣内容阅读或上手，也可从头到尾学习。
 
-- [ChatGPT 基础科普](content/ChatGPT基础科普——知其一点所以然.md) @长琴
+- [ChatGPT 基础科普](content/chapter1/ChatGPT基础科普——知其一点所以然.md) @长琴
     - LM
     - Transformer
     - GPT
     - RLHF
-- [ChatGPT 使用指南：相似匹配](content/ChatGPT使用指南——相似匹配.ipynb) @长琴
+- [ChatGPT 使用指南：相似匹配](content/chapter2/ChatGPT使用指南——相似匹配.ipynb) @长琴
     - Embedding 基础
     - API 使用
     - QA 任务
     - 聚类任务
     - 推荐应用
-- [ChatGPT 使用指南：句词分类](content/ChatGPT使用指南——句词分类.ipynb) @长琴
+- [ChatGPT 使用指南：句词分类](content/chapter3/ChatGPT使用指南——句词分类.ipynb) @长琴
     - NLU 基础
     - API 使用
     - 文档问答任务
     - 分类与实体识别微调任务
     - 智能对话应用
-- [ChatGPT 使用指南：文本生成](content/ChatGPT使用指南——文本生成.ipynb) @玉琳
+- [ChatGPT 使用指南：文本生成](content/chapter4/ChatGPT使用指南——文本生成.ipynb) @玉琳
     - 文本摘要
     - 文本纠错
     - 机器翻译
-- [ChatGPT 使用指南：文本推理](content/ChatGPT使用指南——文本推理.ipynb) @华挥
+- [ChatGPT 使用指南：文本推理](content/chapter5/ChatGPT使用指南——文本推理.ipynb) @华挥
     - 什么是推理
     - 导入ChatGPT
     - 测试ChatGPT推理能力
     - 调用ChatGPT推理能力
     - ChatGPT以及GPT-4的推理能力
-- [ChatGPT 局限不足](content/ChatGPT缺陷不足——工具不是万能的.md) @Carles
+- [ChatGPT 局限不足](content/chapter7/ChatGPT缺陷不足——工具不是万能的.md) @Carles
     - 事实错误
     - 实时更新
     - 资源耗费
-- [ChatGPT 商业应用](content/ChatGPT商业应用——LLM是星辰大海.md) @Jason
+- [ChatGPT 商业应用](content/chapter8/ChatGPT商业应用——LLM是星辰大海.md) @Jason
     - 背景
     - 工具应用：搜索、办公、教育
     - 行业应用：游戏、音乐、零售电商、广告营销、媒体新闻、金融、医疗、设计、影视、工业
