@@ -1,3 +1,11 @@
+<div align=center>
+<img src="./resources/simple_cover.png" >
+<h1>蝴蝶书ButterflyBook</h1>
+<p>
+<strong>配套视频教程：https://b23.tv/hdnXn1L</strong>
+</p>
+</div>
+
 # HuggingLLM
 
 随着ChatGPT的爆火，其背后其实蕴含着一个基本事实：AI能力得到了极大突破——大模型的能力有目共睹，未来只会变得更强。这世界唯一不变的就是变，适应变化、拥抱变化、喜欢变化，天行健君子以自强不息。我们相信未来会有越来越多的大模型出现，AI正在逐渐平民化，将来每个人都可以利用大模型轻松地做出自己的AI产品。所以，我们把项目起名为HuggingLLM，我们相信我们正在经历一个伟大的时代，我们相信这是一个值得每个人全身心拥抱的时代，我们更加相信这个世界必将会因此而变得更加美好。
@@ -93,9 +101,19 @@
 
 最后，祝愿大家都能学有所得，期望大家未来能做出举世瞩目的产品和应用。
 
+
 <p align="right">
 ——HuggingLLM开源项目全体成员
 </p>
+
+
+### 纸质版
+
+<p>
+<img src="./resources/vertical_cover.jpeg">
+</p>
+
+
 
 ## 致谢
 
