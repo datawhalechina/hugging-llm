@@ -110,17 +110,19 @@
 ### 纸质版
 
 <p>
-<img src="./resources/vertical_cover.jpeg">
+<img src="./resources/vertical_cover.jpeg" width="300">
 </p>
 
+购买链接：[京东](https://item.jd.com/14385698.html) | [当当](https://product.dangdang.com/29691320.html)
 
+配套视频教程：https://b23.tv/hdnXn1L
 
 ## 致谢
 
 **核心贡献者**
 
 - [长琴-项目负责人](https://yam.gift/)（Datawhale成员-AI算法工程师）
-- [玉琳](https://github.com/Sophia-Huang)（内容创作者-Datawhale成员）
+- [玉琳](https://github.com/lynnhuang97)（内容创作者-Datawhale成员）
 - [华挥](https://github.com/HhuiYi)（内容创作者-Datawhale成员）
 - [Carles](https://github.com/AmourWaltz)（内容创作者）
 - [Jason](https://github.com/HeteroCat)（内容创作者）
