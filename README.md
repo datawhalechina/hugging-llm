@@ -47,9 +47,11 @@
 
 《Qwen》
 
+```python
+# qwen
 
 
-
+```
 
 ## 内容大纲
 
@@ -84,7 +86,7 @@
     - 调用ChatGPT推理能力
     - ChatGPT以及GPT-4的推理能力
 - ChatGPT 工程实践 @长琴
-    
+  
     - 评测
     - 安全
     - 网络
