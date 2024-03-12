@@ -39,6 +39,7 @@
 
 > 本教程内容彼此之间相对独立，大家可以针对任一感兴趣内容阅读或上手，也可从头到尾学习。
 
+
 - [ChatGPT 基础科普](content/chapter1/ChatGPT基础科普——知其一点所以然.md) @长琴
     - LM
     - Transformer
