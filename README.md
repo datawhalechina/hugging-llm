@@ -1,10 +1,14 @@
 <div align=center>
 <img src="./resources/simple_cover.png" >
 <h1>蝴蝶书ButterflyBook</h1>
-<p>
-<strong>配套视频教程：https://b23.tv/hdnXn1L</strong>
-</p>
+    <p>
+        <strong><a href="https://b23.tv/hdnXn1L">B站配套视频教程</a></strong>
+    </p>
+    <p>
+    <strong><a href="https://aiplusx.momodel.cn/classroom/class/658d3ecd891ad518e0274bce?activeKey=intro">智海配套课程</a></strong>
+    </p>
 </div>
+
 
 # HuggingLLM
 
@@ -40,7 +44,7 @@
 《GLM》
 
 1.  安装智谱GLM的SDK
-   
+  
 ```shell
 pip install zhipuai
 ```
@@ -82,7 +86,7 @@ Datawhale社区倡导开源共生的理念，不仅为成员提供荣誉证书�
 《Qwen》
 
 1. 安装千问Qwen的SDK
-   
+  
 ```shell
 pip install dashscope
 ```
@@ -221,7 +225,9 @@ Datawhale积极推广开源文化，鼓励成员参与并贡献开源项目，�
 
 购买链接：[京东](https://item.jd.com/14385698.html) | [当当](https://product.dangdang.com/29691320.html)
 
-配套视频教程：https://b23.tv/hdnXn1L
+B站配套视频教程：https://b23.tv/hdnXn1L
+
+智海配套课程：https://aiplusx.momodel.cn/classroom/class/658d3ecd891ad518e0274bce?activeKey=intro
 
 ## 致谢
 
