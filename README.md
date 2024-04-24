@@ -239,6 +239,8 @@ B站配套视频教程：https://b23.tv/hdnXn1L
 - [Carles](https://github.com/AmourWaltz)（内容创作者）
 - [Jason](https://github.com/HeteroCat)（内容创作者）
 - [胡锐锋](https://github.com/Relph1119)（Datawhale成员-华东交通大学-系统架构设计师）
+- @**[kal1x](https://github.com/kal1x)** 指出第一章错别字：https://github.com/datawhalechina/hugging-llm/issues/22
+- @**[fancyboi999](https://github.com/fancyboi999)** 更新OpenAI的API：https://github.com/datawhalechina/hugging-llm/pull/23
 
 **其他**
 
