@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [蝴蝶书ButterflyBook](#%E8%9D%B4%E8%9D%B6%E4%B9%A6butterflybook)
+- [HuggingLLM](#huggingllm)
+  - [关于项目](#%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE)
+  - [内容大纲](#%E5%86%85%E5%AE%B9%E5%A4%A7%E7%BA%B2)
+  - [如何学习](#%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0)
+    - [学习指南](#%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
+    - [学习说明](#%E5%AD%A6%E4%B9%A0%E8%AF%B4%E6%98%8E)
+    - [纸质版](#%E7%BA%B8%E8%B4%A8%E7%89%88)
+  - [致谢](#%E8%87%B4%E8%B0%A2)
+  - [关注我们](#%E5%85%B3%E6%B3%A8%E6%88%91%E4%BB%AC)
+  - [LICENSE](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <div align=center>
 <img src="./resources/simple_cover.png" >
 <h1>蝴蝶书ButterflyBook</h1>
@@ -200,7 +218,7 @@ Datawhale积极推广开源文化，鼓励成员参与并贡献开源项目，�
 
 历次组队学习中成员完成的项目汇总（部分）：
 
-
+- https://datawhaler.feishu.cn/base/EdswbrhNvaIEJdsLJ0bcVYt1n2c?table=tbluxatFhjfyXShH&view=vewQJKA0Gi
 
 ### 学习说明
 
