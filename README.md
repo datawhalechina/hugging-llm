@@ -155,46 +155,45 @@ Datawhale积极推广开源文化，鼓励成员参与并贡献开源项目，�
 ## 内容大纲
 
 > 本教程内容彼此之间相对独立，大家可以针对任一感兴趣内容阅读或上手，也可从头到尾学习。
+> 以下内容为原始稿，书稿见：https://datawhalechina.github.io/hugging-llm/
 
 
-- [ChatGPT 基础科普](content/chapter1/ChatGPT基础科普——知其一点所以然.md) @长琴
+- [ChatGPT 基础科普](https://github.com/datawhalechina/hugging-llm/blob/main/content/chapter1/ChatGPT%E5%9F%BA%E7%A1%80%E7%A7%91%E6%99%AE%E2%80%94%E2%80%94%E7%9F%A5%E5%85%B6%E4%B8%80%E7%82%B9%E6%89%80%E4%BB%A5%E7%84%B6.md) @长琴
     - LM
     - Transformer
     - GPT
     - RLHF
-- [ChatGPT 使用指南：相似匹配](content/chapter2/ChatGPT使用指南——相似匹配.ipynb) @长琴
+- [ChatGPT 使用指南：相似匹配](https://github.com/datawhalechina/hugging-llm/blob/main/content/chapter2/ChatGPT%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E7%9B%B8%E4%BC%BC%E5%8C%B9%E9%85%8D.ipynb) @长琴
     - Embedding 基础
     - API 使用
     - QA 任务
     - 聚类任务
     - 推荐应用
-- [ChatGPT 使用指南：句词分类](content/chapter3/ChatGPT使用指南——句词分类.ipynb) @长琴
+- [ChatGPT 使用指南：句词分类](https://github.com/datawhalechina/hugging-llm/blob/main/content/chapter3/ChatGPT%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E5%8F%A5%E8%AF%8D%E5%88%86%E7%B1%BB.ipynb) @长琴
     - NLU 基础
     - API 使用
     - 文档问答任务
     - 分类与实体识别微调任务
     - 智能对话应用
-- [ChatGPT 使用指南：文本生成](content/chapter4/ChatGPT使用指南——文本生成.ipynb) @玉琳
+- [ChatGPT 使用指南：文本生成](https://github.com/datawhalechina/hugging-llm/blob/main/content/chapter4/ChatGPT%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90.ipynb) @玉琳
     - 文本摘要
     - 文本纠错
     - 机器翻译
-- [ChatGPT 使用指南：文本推理](content/chapter5/ChatGPT使用指南——文本推理.ipynb) @华挥
+- [ChatGPT 使用指南：文本推理](https://github.com/datawhalechina/hugging-llm/blob/main/content/chapter5/ChatGPT%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E6%96%87%E6%9C%AC%E6%8E%A8%E7%90%86.ipynb) @华挥
     - 什么是推理
     - 导入ChatGPT
     - 测试ChatGPT推理能力
     - 调用ChatGPT推理能力
     - ChatGPT以及GPT-4的推理能力
 - ChatGPT 工程实践 @长琴
-  
     - 评测
     - 安全
     - 网络
-    
-- [ChatGPT 局限不足](content/chapter7/ChatGPT缺陷不足——工具不是万能的.md) @Carles
+- [ChatGPT 局限不足](https://github.com/datawhalechina/hugging-llm/blob/main/content/chapter7/ChatGPT%E7%BC%BA%E9%99%B7%E4%B8%8D%E8%B6%B3%E2%80%94%E2%80%94%E5%B7%A5%E5%85%B7%E4%B8%8D%E6%98%AF%E4%B8%87%E8%83%BD%E7%9A%84.md) @Carles
     - 事实错误
     - 实时更新
     - 资源耗费
-- [ChatGPT 商业应用](content/chapter8/ChatGPT商业应用——LLM是星辰大海.md) @Jason
+- [ChatGPT 商业应用](https://github.com/datawhalechina/hugging-llm/blob/main/content/chapter8/ChatGPT%E5%95%86%E4%B8%9A%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94LLM%E6%98%AF%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7.md) @Jason
     - 背景
     - 工具应用：搜索、办公、教育
     - 行业应用：游戏、音乐、零售电商、广告营销、媒体新闻、金融、医疗、设计、影视、工业
