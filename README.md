@@ -259,7 +259,7 @@ B站配套视频教程：https://b23.tv/hdnXn1L
 
 **核心贡献者**
 
-- [长琴-项目负责人](https://yam.gift/)（Datawhale成员-AI算法工程师）
+- [长琴-项目负责人](https://github.com/hscspring)（Datawhale成员-AI算法工程师）
 - [玉琳](https://github.com/lynnhuang97)（内容创作者-Datawhale成员）
 - [华挥](https://github.com/HhuiYi)（内容创作者-Datawhale成员）
 - [Carles](https://github.com/AmourWaltz)（内容创作者）
