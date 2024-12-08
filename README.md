@@ -19,7 +19,7 @@
 
 
 <div align=center>
-<img src="./resources/simple_cover.png" >
+<img src="./docs/images/simple_cover.png" >
 <h1>蝴蝶书ButterflyBook</h1>
     <p>
         <strong><a href="https://b23.tv/hdnXn1L">B站配套视频教程</a></strong>
@@ -28,6 +28,7 @@
     <strong><a href="https://aiplusx.momodel.cn/classroom/class/658d3ecd891ad518e0274bce?activeKey=intro">智海配套课程</a></strong>
     </p>
 </div>
+
 
 
 # HuggingLLM
@@ -244,8 +245,9 @@ Datawhale积极推广开源文化，鼓励成员参与并贡献开源项目，�
 ### 纸质版
 
 <p>
-<img src="./resources/vertical_cover.jpeg" width="300">
+<img src="./docs/images/vertical_cover.jpeg" width="300">
 </p>
+
 
 购买链接：[京东](https://item.jd.com/14385698.html) | [当当](https://product.dangdang.com/29691320.html)
 
@@ -274,8 +276,9 @@ B站配套视频教程：https://b23.tv/hdnXn1L
 
 <div align=center>
 <p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="resources/qrcode.jpeg" width = "180" height = "180">
+<img src="docs/images/qrcode.jpeg" width = "180" height = "180">
 </div>
+
 &emsp;&emsp;Datawhale，一个专注于AI领域的学习圈子。初衷是for the learner，和学习者一起成长。目前加入学习社群的人数已经数千人，组织了机器学习，深度学习，数据分析，数据挖掘，爬虫，编程，统计学，Mysql，数据竞赛等多个领域的内容学习，微信搜索公众号Datawhale可以加入我们。
 
 ## LICENSE
